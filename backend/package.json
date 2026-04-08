@@ -1,1 +1,0 @@
-{\n  "name": "backend",\n  "version": "1.0.0",\n  "description": "Backend dependencies for Node.js application",\n  "dependencies": {\n    "socket.io": "latest",\n    "redis": "latest",\n    "redux": "latest",\n    "cluster": "latest",\n    "worker_threads": "latest"\n  }\n}
